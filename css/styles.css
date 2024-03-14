@@ -66,7 +66,7 @@ section {
     padding-bottom: 120px;
 }
 
-/* --- header section 0 --- */
+/* --- section 0 --- */
 
 .header-top {
     border-bottom: 1px solid #e7e9fc;
@@ -167,12 +167,12 @@ section {
     color: #404bbf;
 }
 
-/* --- hero section 1 --- */
+/* ---section 1 --- */
 
 .blue-box {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
-        url(../images/heroimage.jpg);
+        url(../images/office.jpg);
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
@@ -221,7 +221,7 @@ section {
     background-color: #404bbf;
 }
 
-/* portfolio section 4 */
+/* portfolio 4 */
 
 .portfolio-list {
     display: flex;
@@ -276,7 +276,7 @@ section {
     transform: translateY(0%);
 }
 
-/* --- goals section 2 --- */
+/* --- section 2 --- */
 
 .goals-columns {
     padding: 120px 0;
@@ -324,7 +324,7 @@ section {
     overflow: hidden;
 }
 
-/* --- our team section 3 --- */
+/* ---section 3 --- */
 
 .person-list {
     display: flex;
@@ -367,7 +367,7 @@ section {
     background-color: #404bbf;
 }
 
-/* --- section 3 section 4 --- */
+/* --- section 3 / 4 --- */
 
 .list-titles {
     color: #2e2f42;
@@ -389,7 +389,7 @@ section {
     margin-bottom: 72px;
 }
 
-/* --- footer dark end --- */
+/* --- footer --- */
 
 .logo-bottom {
     display: inline-block;
@@ -436,7 +436,7 @@ section {
     background-color: #31d0aa;
 }
 
-/* --- details icons --- */
+/* --- icons --- */
 
 .icon-circle {
     width: 40px;
